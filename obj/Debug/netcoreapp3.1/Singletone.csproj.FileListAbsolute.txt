@@ -1,0 +1,13 @@
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Singletone\bin\Debug\netcoreapp3.1\Singletone.exe
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Singletone\bin\Debug\netcoreapp3.1\Singletone.deps.json
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Singletone\bin\Debug\netcoreapp3.1\Singletone.runtimeconfig.json
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Singletone\bin\Debug\netcoreapp3.1\Singletone.runtimeconfig.dev.json
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Singletone\bin\Debug\netcoreapp3.1\Singletone.dll
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Singletone\bin\Debug\netcoreapp3.1\Singletone.pdb
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Singletone\obj\Debug\netcoreapp3.1\Singletone.csprojAssemblyReference.cache
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Singletone\obj\Debug\netcoreapp3.1\Singletone.AssemblyInfoInputs.cache
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Singletone\obj\Debug\netcoreapp3.1\Singletone.AssemblyInfo.cs
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Singletone\obj\Debug\netcoreapp3.1\Singletone.csproj.CoreCompileInputs.cache
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Singletone\obj\Debug\netcoreapp3.1\Singletone.dll
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Singletone\obj\Debug\netcoreapp3.1\Singletone.pdb
+C:\Users\shira\Desktop\Ori\DesignPatterns\Creatonal\Singletone\obj\Debug\netcoreapp3.1\Singletone.genruntimeconfig.cache
